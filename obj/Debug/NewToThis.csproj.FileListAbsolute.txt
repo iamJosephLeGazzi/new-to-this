@@ -1,0 +1,8 @@
+C:\Users\Josep\source\repos\NewToThis\bin\Debug\NewToThis.exe.config
+C:\Users\Josep\source\repos\NewToThis\bin\Debug\NewToThis.exe
+C:\Users\Josep\source\repos\NewToThis\bin\Debug\NewToThis.pdb
+C:\Users\Josep\source\repos\NewToThis\obj\Debug\NewToThis.csproj.AssemblyReference.cache
+C:\Users\Josep\source\repos\NewToThis\obj\Debug\NewToThis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josep\source\repos\NewToThis\obj\Debug\NewToThis.csproj.CoreCompileInputs.cache
+C:\Users\Josep\source\repos\NewToThis\obj\Debug\NewToThis.exe
+C:\Users\Josep\source\repos\NewToThis\obj\Debug\NewToThis.pdb
